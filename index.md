@@ -1,5 +1,9 @@
 ## Vivek's First CS193 Homework
 
+-I love CS193!!!
+-The instructors seem super cool and nice!
+-They let us leave early if we finish early
+-The room is a little hot but that's okay!
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
